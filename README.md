@@ -4,4 +4,4 @@ Simple login app with Python
 
 
 Default Username = admin  <br/>
-Default Password = 12345
+Default Password  = 12345
